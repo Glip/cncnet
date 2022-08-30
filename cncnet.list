@@ -1,0 +1,6 @@
+CNC_name=cnc tunnel
+CNC_maxclients=200
+CNC_port=50001
+CNC_portv2=50000
+CNC_iplimit=8
+CNC_iplimitv2=4
