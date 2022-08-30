@@ -11,12 +11,13 @@ docker run --env-file /home/docker/envs/cncnet.list -d -p 50000-50001:50000-5000
 
 ### ENV File
 
-CNC_name - name of your server
-CNC_maxclients - maximum connected players
-CNC_port - port for most cnc games
-CNC_portv2 - port only for RA2 YR
-CNC_iplimit - Maximum clients allowed per IP address
-CNC_iplimitv2 - Max game request allowed per IP address on V2
+CNC_name - name of your server<br>
+CNC_maxclients - maximum connected players<br>
+CNC_port - port for most cnc games<br>
+CNC_portv2 - port only for RA2 YR<br>
+CNC_iplimit - Maximum clients allowed per IP address<br>
+CNC_iplimitv2 - Max game request allowed per IP address on V2<br>
+
 
 
 ## Authors
