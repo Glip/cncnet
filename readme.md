@@ -15,9 +15,8 @@ CNC_name - name of your server
 CNC_maxclients - maximum connected players
 CNC_port - port for most cnc games
 CNC_portv2 - port only for RA2 YR
-CNC_iplimit - connection limit for ip. most cnc games
-CNC_iplimitv2 - connection limit for ip. RA2 YR
-
+CNC_iplimit - Maximum clients allowed per IP address
+CNC_iplimitv2 - Max game request allowed per IP address on V2
 
 
 ## Authors
